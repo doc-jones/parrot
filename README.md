@@ -1,5 +1,8 @@
 # Parrot
 
+![image](https://github.com/doc-jones/parrot/assets/37349558/2092eb14-9e80-4934-8bb1-f4969fc12166 = 250 x 407)
+
+
 Experiments in GitHub Issues Summarization using Deep Learning.
 
 The dataset is composed of issue discussions from the following projects:
